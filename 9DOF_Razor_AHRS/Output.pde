@@ -1,5 +1,7 @@
 /* This file is part of the Razor AHRS Firmware */
-
+//Fivacopter v3.0 - January 2013  UNIVERSITY UPTC
+  //Copyright (c) 2013 BRIAN LARA, ELKYN FAGUA.  All rights reserved.
+  //BOYACA (COLOMBIA)
 // Output angles: yaw, pitch, roll
 void output_angles()
 {
