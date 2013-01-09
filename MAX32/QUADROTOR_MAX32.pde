@@ -66,7 +66,7 @@ void setup()
  
  //----------------------------------------configuracion motores................
  varpwm1=6480;//--
- varpwm2=6480;//-- para grantizar arranque de motores.
+ varpwm2=6480;//-- 
  varpwm3=6480;//--
  varpwm4=6480;//
  Serial.begin(57600);
