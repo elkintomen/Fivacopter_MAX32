@@ -3,6 +3,10 @@ MOFIFICACION DE ENVIO DE DATOS HACIA LA MAX32
 brian lara,elkyn fagua
 soporteboyaca@gmail.com
 
+Fivacopter v3.0 - January 2013  UNIVERSITY UPTC
+Copyright (c) 2013 BRIAN LARA, ELKYN FAGUA.  All rights reserved.
+BOYACA (COLOMBIA)
+
 ///.............................................................................................
 * Razor AHRS Firmware v1.4.1
 * 9 Degree of Measurement Attitude and Heading Reference System
